@@ -1,0 +1,12 @@
+*
+!*.*
+!*/
+!*.cpp
+!*.h
+!LICENSE
+!makefile
+!Makefile
+
+*.o
+*.exe
+/.vscode
